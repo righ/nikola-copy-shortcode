@@ -1,0 +1,12 @@
+[Core]
+Name = copy_shortcode
+Module = shortcode
+
+[Nikola]
+PluginCategory = ShortcodePlugin
+
+[Documentation]
+Author = Righ
+Version = 0.1
+Website = https://github.com/righ/nikola-copy-shortcode
+Description = load shortcode
